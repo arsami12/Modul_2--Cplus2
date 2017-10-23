@@ -7,4 +7,5 @@ int main(){
 	double Luas1Box = LntP*8/1000000;
 		cout << "Luas Rumah		   : "<<LuasRmh<<" m2"<<endl;
 		cout << "Luas 1 Box parket : "<<Luas1Box<<" m2"<<endl;
+	double JmlBoxP,BiayaP,BiayaPG,TotlB;
 }
