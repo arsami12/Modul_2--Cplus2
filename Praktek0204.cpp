@@ -14,5 +14,6 @@ int main(){
 		cout << "Biaya Parket (Rp) 		: "<<BiayaP<<endl;
 			BiayaPG = LuasRmh*20;
 		cout << "Biaya Pasang (Rp)		: "<<BiayaPG<<endl;
+			TotlB = BiayaP+BiayaPG;
 	
 }
