@@ -9,12 +9,11 @@ int main(){
 		cout << "Luas 1 Box parket : "<<Luas1Box<<" m2"<<endl;
 	double JmlBoxP,BiayaP,BiayaPG,TotlB;
 		   JmlBoxP = LuasRmh/Luas1Box;
-		cout << "Jumlah Box Parket		: "<<JmlBoxP<<endl;
+		cout << "Jumlah Box Parket : "<<JmlBoxP<<endl;
 			BiayaP = JmlBoxP*500;
-		cout << "Biaya Parket (Rp) 		: "<<BiayaP<<endl;
+		cout << "Biaya Parket (Rp) : "<<BiayaP<<endl;
 			BiayaPG = LuasRmh*20;
-		cout << "Biaya Pasang (Rp)		: "<<BiayaPG<<endl;
+		cout << "Biaya Pasang (Rp) : "<<BiayaPG<<endl;
 			TotlB = BiayaP+BiayaPG;
-		cout << "Total Biaya (Rp)		: "<<TotlB<<endl;
-	
+		cout << "Total Biaya (Rp)  : "<<TotlB<<endl;	
 }
