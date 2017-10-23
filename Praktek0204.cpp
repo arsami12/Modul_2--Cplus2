@@ -13,5 +13,6 @@ int main(){
 			BiayaP = JmlBoxP*500;
 		cout << "Biaya Parket (Rp) 		: "<<BiayaP<<endl;
 			BiayaPG = LuasRmh*20;
+		cout << "Biaya Pasang (Rp)		: "<<BiayaPG<<endl;
 	
 }
