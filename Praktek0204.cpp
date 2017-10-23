@@ -11,5 +11,6 @@ int main(){
 		   JmlBoxP = LuasRmh/Luas1Box;
 		cout << "Jumlah Box Parket		: "<<JmlBoxP<<endl;
 			BiayaP = JmlBoxP*500;
+		cout << "Biaya Parket (Rp) 		: "<<BiayaP<<endl;
 	
 }
